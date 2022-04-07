@@ -1,41 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1417" height="1417" viewBox="0 0 1417 1417">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
-    <style>
-      .cls-1 {
-        fill: #06c;
-        fill-rule: evenodd;
-      }
-    </style>
-  </defs>
-  <path id="rectangular" class="cls-1" d="M170.35,170.525h359.1V1254.47H170.35V170.525Z"/>
-  <path id="triangle-down" class="cls-1" d="M888.55,1254.47h359.1L888.55,886.825V1254.47Z"/>
-  <path id="triangle-up" class="cls-1" d="M888.55,170.525h359.1l-359.1,359.1v-359.1Z"/>
+<svg xml:space="preserve" style="enable-background:new 0 0 500 500;" viewBox="0 0 500 500" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" id="图层_2" version="1.1">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#6EC19E;}
+	.st1{clip-path:url(#SVGID_4_);fill:#6EC19E;}
+	.st2{clip-path:url(#SVGID_6_);fill:#59997E;}
+	.st3{clip-path:url(#SVGID_8_);fill:#8ECCB0;}
+	.st4{clip-path:url(#SVGID_10_);fill:#85C9AA;}
+</style>
+<g>
+	<g>
+		<defs>
+			<circle r="250" cy="249" cx="248.6" id="SVGID_1_"></circle>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use style="overflow:visible;" xlink:href="#SVGID_1_"></use>
+		</clipPath>
+		<path d="M224.6,399.9c0,0,4.7-382,75.3-494.9c36.7-45.2,105.4,509,105.4,509L224.6,399.9z" class="st0"></path>
+	</g>
+	<g>
+		<defs>
+			<circle r="250" cy="249" cx="248.6" id="SVGID_3_"></circle>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use style="overflow:visible;" xlink:href="#SVGID_3_"></use>
+		</clipPath>
+		<path d="M-14.4-307.6c0,0,97.1-43,126.8,473.5l-127,4.2L-14.4-307.6z" class="st1"></path>
+	</g>
+	<g>
+		<defs>
+			<circle r="250" cy="249" cx="248.6" id="SVGID_5_"></circle>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use style="overflow:visible;" xlink:href="#SVGID_5_"></use>
+		</clipPath>
+		<path d="M207.7,533.5c0,0-5.6-237.1,104.4-319s183.5,335.9,183.5,335.9L207.7,533.5z" class="st2"></path>
+	</g>
+	<g>
+		<defs>
+			<circle r="250" cy="249" cx="248.6" id="SVGID_7_"></circle>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use style="overflow:visible;" xlink:href="#SVGID_7_"></use>
+		</clipPath>
+		<path d="M-9.7-81.8c0,0,217.3,282.3,234.3,637.9H-18.1L-9.7-81.8z" class="st3"></path>
+	</g>
+	<g>
+		<defs>
+			<circle r="250" cy="249" cx="248.6" id="SVGID_9_"></circle>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use style="overflow:visible;" xlink:href="#SVGID_9_"></use>
+		</clipPath>
+		<path d="M357.3,527.9c0,0,50.8-591.4,152.4-725.4l5.1,778.4H355.7L357.3,527.9z" class="st4"></path>
+	</g>
+</g>
 </svg>
