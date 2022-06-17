@@ -18,8 +18,8 @@
   
   <entry>
     <title>网络游戏防沉迷</title>
-    <link href="https://zhang12.xyz/2022/04/26/artcle3/"/>
-    <id>https://zhang12.xyz/2022/04/26/artcle3/</id>
+    <link href="https://zhang12.xyz/2022/04/26/artcle2/"/>
+    <id>https://zhang12.xyz/2022/04/26/artcle2/</id>
     <published>2022-04-26T07:03:28.020Z</published>
     <updated>2022-04-26T07:07:11.452Z</updated>
     
@@ -37,30 +37,6 @@
     
     
     <category term="社会议题" scheme="https://zhang12.xyz/tags/%E7%A4%BE%E4%BC%9A%E8%AE%AE%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>图库Demo</title>
-    <link href="https://zhang12.xyz/2022/04/11/article2/"/>
-    <id>https://zhang12.xyz/2022/04/11/article2/</id>
-    <published>2022-04-11T08:12:25.887Z</published>
-    <updated>2022-04-11T08:37:25.520Z</updated>
-    
-    <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg" alt=""><br><img src="https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg" alt=""></p>          </div><p>哪個英文字母最酷？ <span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">查看答案  </button><span class="hide-content">因為西裝褲(C裝酷)</span></span></p><p>門裏站着一個人? <span class="hide-inline"><button type="button" class="hide-button" style="">Click  </button><span class="hide-content">閃</span></span></p><div class="mermaid-wrap"><pre class="mermaid-src" hidden>  pietitle Key elements in Product X&quot;Calcium&quot; : 42.96&quot;Potassium&quot; : 50.05&quot;Magnesium&quot; : 10.01&quot;Iron&quot; :  5  </pre></div><div class="tabs" id="test1"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test1-1">test1 1</button></li><li class="tab"><button type="button" data-href="#test1-2">test1 2</button></li><li class="tab"><button type="button" data-href="#test1-3">test1 3</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test1-1"><p><strong>This is Tab 1.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-2"><p><strong>This is Tab 2.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test1-3"><p><strong>This is Tab 3.</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><p>This is my website, click the button <a class="btn-beautify " href="https://butterfly.js.org/"   title="Butterfly"><span>Butterfly</span></a><br>This is my website, click the button <a class="btn-beautify " href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><br>This is my website, click the button <a class="btn-beautify outline" href="https://butterfly.js.org/"   title="Butterfly"><span>Butterfly</span></a><br>This is my website, click the button <a class="btn-beautify outline" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><br>This is my website, click the button <a class="btn-beautify larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a></p><div class="tabs" id="test4"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#test4-1">第一個Tab</button></li><li class="tab"><button type="button" data-href="#test4-2"><i class="fab fa-apple-pay" style="text-align: center;"></i></button></li><li class="tab"><button type="button" data-href="#test4-3"><i class="fas fa-bomb"></i>炸彈</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="test4-1"><p><strong>tab名字為第一個Tab</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-2"><p><strong>只有圖標 沒有Tab名字</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><a class="btn-beautify block" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify block center larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify block right outline larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify blue larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify pink larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify red larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify purple larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify orange larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><a class="btn-beautify green larger" href="https://butterfly.js.org/"   title="Butterfly"><i class="far fa-hand-point-right"></i><span>Butterfly</span></a><p>你看我長得漂亮不</p><p><img src="https://i.loli.net/2021/03/19/2P6ivUGsdaEXSFI.png" alt=""></p><p>我覺得很漂亮 <img class="inline-img" src="https://i.loli.net/2021/03/19/5M4jUB3ynq7ePgw.png" style="height:150px"/></p><p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div class=&quot;fj-gallery&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://i.loli.net/2019/12/25/r</summary>
-      
-    
-    
-    
-    <category term="图库" scheme="https://zhang12.xyz/categories/%E5%9B%BE%E5%BA%93/"/>
-    
-    
-    <category term="图片" scheme="https://zhang12.xyz/tags/%E5%9B%BE%E7%89%87/"/>
     
   </entry>
   
